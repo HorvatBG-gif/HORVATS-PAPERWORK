@@ -1,0 +1,15 @@
+[color=#8c0000]▄[/color][color=#8c0000]████[/color][color=#470000]▄[/color][color=#FFFFFF]░[/color][color=#8c0000]██[/color][color=#FFFFFF]░░[/color][color=#8c0000]█[/color][color=#470000]█[/color] [bold][color=#070707]───────────────────────────[/color][/bold]
+[color=#8c0000]██[/color][color=#FFFFFF]░░[/color][color=#470000]██[/color][color=#FFFFFF]░[/color][color=#8c0000]██[/color][color=#FFFFFF]░░[/color][color=#470000]██[/color] [color=GoldenRod]  ✦  ✦[/color] [head=2][bold]       ВСП КМПОН[/bold][/head][color=GoldenRod]          ✦  ✦[/color]
+[color=#8c0000]██[/color][color=#FFFFFF]░░[/color][color=#470000]██[/color][color=#FFFFFF]░[/color][color=#8c0000]████[/color][color=#470000]██[/color][bold]                    Кореспондеція ВСП[/bold]
+[color=#8c0000]██[/color][color=#FFFFFF]░░[/color][color=#470000]██[/color][color=#FFFFFF]░[/color][color=#8c0000]██[/color][color=#FFFFFF]░░[/color][color=#470000]██[/color][italic]                          Форма №П4409[/italic]
+[color=#8c0000]▀[/color][color=#8c0000]██[/color][color=#470000]██[/color][color=#470000]▀[/color][color=#FFFFFF]░[/color][color=#8c0000]██[/color][color=#FFFFFF]░░[/color][color=#470000]██[/color] [color=#070707] [bold]───────────────────────────[/bold][/color]
+[color=#8c0000]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#470000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold][head=1]        Кореспонденція ВСП[/head][/bold]
+[bold]Одержувач:[/bold] Головне Управліня [bold][color=#8c0000]ВСП[/color][/bold] сектору [color=navy][bold]Нероїд[/color][/bold] - Командувач Сектору.
+[bold]Відправник:[/bold] [signature] - [bold]ДКП-Саванна "Січ" [color=DarkGreen]КМПОН[/color][/bold].
+[color=#070707][bold] ───────────────────────────────────────[/bold][/color]
+[bold]Шановний Командуваче Головного Управління [bold][color=#8c0000]ВСП[/color][/bold] сектору [color=navy]Нероїд[/color]. Я, [/bold][signature][bold] - ДКП-Саванна "Січ" [color=DarkGreen]КМПОН[/color], звертаюсь до вас з наступним:[/bold][italic] [form] [/italic]. [bold]Прошу розглянути моє повідомлення у встановленому службовому порядку та прийняти відповідне рішення та/чи в межах ваших повноважень, Морпіхотного Закону та Стандартних Процедур.[/bold]
+[color=#070707][bold] ───────────────────────────────────────[/bold][/color]
+[head=3][color=#9A4440][bold]     ІНФОРМАЦІЯ З ОБМЕЖЕНИМ ДОСТУПОМ[/bold][/head]
+[color=#9A4440]Ця інформація є обмеженою для Військової Служби Правопорядку та офіцерського складу КМПОН з відповідним рівнем доступу. Неправомірне здобуття, утримання , розповсюдження чи розголошення цьго документу чи його змісту є підставою для правового переслідування зі сторони ОН.

@@ -1,0 +1,31 @@
+[color=#eb5c4c]█[/color][color=#FF6655]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color][color=#070707][bold] ───────────────[/bold][/color]
+[color=#eb5c4c]█[/color][color=#FF6655]▌[color=#FFFFFF]░░[/color]▄██[color=#eb5c4c]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#eb5c4c]█▀[/color][/color] [bold]                      Диспетчерська ПВК[/bold] 
+[color=#eb5c4c]█[/color][color=#FF6655]▌▄██[color=#eb5c4c]█▀[/color][color=#1c8a4e]▄[/color][color=#eb5c4c]▐[/color]█▌▄██[color=#eb5c4c]█▀[/color][color=#EEEE]▄[/color]▐████████[/color][bold] Форма №8320[/bold]
+[color=#eb5c4c]█[/color][color=#FF6655]██[color=#eb5c4c]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#eb5c4c]▐[/color]███[color=#eb5c4c]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color][/color]                          [bold]ДКП-Саванна "Січ"[/bold]
+[color=#eb5c4c]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#eb5c4c]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#FF6655]▐████████[/color][color=#070707][bold] ───────────────[/bold][/color]
+[color=#FF6655]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#25b266]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+ [head=2][bold]     ЗАПИТ НА ЗАЛУЧЕННЯ ЗАГОНУ ПВК[/bold][/head]
+[bold]Одержувач:[/bold] Директор [bold][color=#eb5c4c]Диспетчерської ПВК[/color][/bold] по сектору [color=navy][bold]Нероїд[/color][/bold].
+[bold]Відправник:[/bold] [signature] -  [bold][color=#d16d1f]Вестон[/color]-[color=#25b266]Ямада[/color][/bold] на об'єкті [bold]ДКП-Саванна "Січ" [color=DarkGreen]КМПОН[/color][/bold].
+[color=#070707][bold] ───────────────────────────────────────[/bold][/color]
+[bold] [head=3]1.Зміст:[/head]
+
+Шановний директоре  [bold][color=#eb5c4c]Диспетчерської ПВК[/color][/bold] по сектору [color=navy][bold]Нероїд[/color][/bold], Я - [signature] звертаюсь до вас з проханням задіяти загін ПВК в зоні дійсної операції  корабля [bold]ДКП-Саванна "Січ" [color=DarkGreen]КМПОН[/color][/bold]. Я не бачу іншого рішення ніж звернутись до вас, моє звернення підкріплене наступними обставинами:
+[italic][head=2][bullet][/head] [form] [/italic]
+
+[bold] [head=3]2.Матеріальна чи інтелектуальна вигода:[/head]
+
+Я вважаю що задіяння загону ПВК в зоні дійсної операції  корабля [bold]ДКП-Саванна "Січ" [color=DarkGreen]КМПОН[/color][/bold] призведе до отримання матеріальної чи/та інтелектуальної вигоди, а саме:
+[italic][head=2][bullet][/head] [form] [/italic]
+
+[bold] [head=3]3.Оцінка пріоритету залучення ПВК:[/head]
+
+[bold][head=2][bullet][/head][/bold]Низький пріоритет[color=red]([form])[/color]
+[bold][head=2][bullet][/head][/bold]Середній пріоритет [color=red]([form])[/color]
+[bold][head=2][bullet][/head][/bold]Високий пріоритет [color=red]([form])[/color]
+[bold][head=2][bullet][/head][/bold][color=#A00C0E]КРИТИЧНА СИТУАЦІЯ[/color] [color=red]([form])[/color][bold]
+[color=#A1A2A1][italic]Залиште X в відповідному полі.[/italic][/color]
+[color=#070707][bold] ───────────────────────────────────────[/bold][/color]
+[head=3][color=#9A4440][bold]                     ЗАСЕКРЕЧЕНА ІНФОРМАЦІЯ[/bold][/head]
+Ця інформація засекречена відносно протоколів безпеки корпорації Вестон-Ямада .Будь-яке її отримання, утримування, розповсюдження чи розголошення вмісту особами без відповідного доступу розцінюватиметься як порушення протоколів безпеки корпорації Вестон-Ямада й проти цієї особи буде висунуто звинувачення та почато правове переслідування.

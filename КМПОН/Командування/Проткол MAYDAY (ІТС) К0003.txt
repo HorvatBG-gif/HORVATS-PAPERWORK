@@ -1,0 +1,19 @@
+[color=#1b67a5]▄[/color][color=#1b67a5]████[/color][color=#17578C]▄[/color][color=#FFFFFF]░[/color][color=#1b67a5]██[/color][color=#FFFFFF]░░[/color][color=#1b67a5]█[/color][color=#17578C]█[/color] [bold][color=#070707]───────────────────────────[/color][/bold]
+[color=#1b67a5]██[/color][color=#FFFFFF]░░[/color][color=#17578C]██[/color][color=#FFFFFF]░[/color][color=#1b67a5]██[/color][color=#FFFFFF]░░[/color][color=#17578C]██[/color] [color=GoldenRod]          ✦[/color] [head=2][bold]         КМПОН[/bold][/head][color=GoldenRod]             ✦[/color]
+[color=#1b67a5]██[/color][color=#FFFFFF]░░[/color][color=#17578C]██[/color][color=#FFFFFF]░[/color][color=#1b67a5]████[/color][color=#17578C]██[/color][bold]                     Протокол [color=red]MAYDAY[/color][/bold]
+[color=#1b67a5]██[/color][color=#FFFFFF]░░[/color][color=#17578C]██[/color][color=#FFFFFF]░[/color][color=#1b67a5]██[/color][color=#FFFFFF]░░[/color][color=#17578C]██[/color][italic]                          Форма №К0003[/italic]
+[color=#1b67a5]▀[/color][color=#1b67a5]██[/color][color=#17578C]██[/color][color=#17578C]▀[/color][color=#FFFFFF]░[/color][color=#1b67a5]██[/color][color=#FFFFFF]░░[/color][color=#17578C]██[/color] [color=#070707] [bold]───────────────────────────[/bold][/color]
+[color=#1b67a5]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#17578C]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[bold][head=1]          Протокол [color=red]MAYDAY[/color][/head][/bold]
+[bold]Одержувач:[/bold] Консул з питань задіяння сил [bold]КГ[color=#004c17]І[/color][color=#a10000]Т[/color][color=#030066]С[/color][/bold].
+[bold]Відправник:[/bold] [signature] - [bold]ДКП-Саванна "Січ" [color=DarkGreen]КМПОН[/color][/bold].
+[color=#070707][bold] ───────────────────────────────────────[/bold][/color]
+[head=2][bold][color=#c23838]                          СИГНАЛ ЛИХА[/color][/bold][/head]
+[bold]Корабель ДКП-Саванна "Січ" потребує негайної допомоги через загрозу у вигляді[/bold] [form] [bold]. Просимо надіслати всі доступні сили нам на допомогу!
+[/bold]
+[color=#070707][bold] ───────────────────────────────────────[/bold][/color]
+[signature] [bold] ДКП-Саванна "Січ"; 3-тя рота ‘Січові Стрільці’, 2-го батальйону ‘Пікуючі Соколи’, 3-го Полку, 4-ої Бойової Дивізії, приєднаної до сил КМПОН-3 ‘Геркулес’
+[color=#070707][bold] ───────────────────────────────────────[/bold][/color]
+ [head=3][color=#9A4440][bold]     ІНФОРМАЦІЯ З ОБМЕЖЕНИМ ДОСТУПОМ[/bold][/bold][/head]
+Ця інформація є обмеженою для офіцерського складу КМПОН з відповідним рівнем доступу. Неправомірне здобуття, утримання , розповсюдження чи розголошення цьго документу чи його змісту є підставою для правового переслідування зі сторони ОН.Також ця інформація є захищена Едиктом про збереження таємниці. Будь-яке здобуття, утримання , розповсюдження чи розголошення інформації в цьому документі що є вороже інтересам Корони буде розцінюватись як зрада та каратись відповідно.
