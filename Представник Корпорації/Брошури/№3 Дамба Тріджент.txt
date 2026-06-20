@@ -1,0 +1,16 @@
+[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color][color=#070707][bold] ───────────────[/bold][/color]
+[color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]                          [bold]   Інформаційна [/bold] 
+[color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color][bold]               брошура [/bold]
+[color=#d16d1f]█[/color][color=#eb7a23]██[color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color]███[color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color][/color]                                      Випуск №3
+[color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color][color=#070707][bold] ───────────────[/bold][/color]
+[color=#eb7a23]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#25b266]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                    [bold][head=2] Колонії сектору "Нероїд"[head][/bold][/bold]
+
+ [bold][head=3][color=#eb7a23]LV-670 (Raijin)[/color] | [color=#25b266]Дамба Тріджент[/color][head][/bold][/bold]
+[bold]Популяція: [/bold]~150 колоністів.
+[bold]Приналежність: [/bold][color=navy] Корпорація Тріджент[/color]
+[bold]Мета: [/bold] Видобування та експорт ізотопу літію - 6Li
+[bold]Історія: [/bold]
+[bold][bullet][/bold]Після відкриття значних покладів літію в недрах [bold]LV-670 (Raijin)[/bold] [color=navy] Корпорація Тріджент[/color], дочірня компанія [color=#eb7a23]Вестон[/color]-[color=#25b266]Ямада[/color] розробила план по колонізації . Для активного видобутку була необхідна велика кількість електроенергії . З метою вирішення цієї проблеми було збудовано дамбу з трьома гідроелектротурбінами. 
+[bold][bullet][/bold] Наразі об'єкт на планеті [bold]LV-670[/bold] є головним поставником ізотопу [bold]Літій-6[/bold] не лише в секторі Нероїд а й на загальному ринку . Завдяки успіхам у цій сфері [color=navy] Корпорація Тріджент[/color] являється  провідною в компанією в виробництві та дистрибуції [bold]тритію[/bold] як дешевого палива для термоядерних реакторів.
